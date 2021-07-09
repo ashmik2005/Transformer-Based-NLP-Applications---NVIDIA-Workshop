@@ -1,0 +1,4 @@
+# Transformer-Based-NLP-Applications---NVIDIA-Workshop
+NVIDIA Natural Language Processing Workshop Assesment Task 
+The Federalist Papers are a set of essays written between 1787 and 1788 by Alexander Hamilton, James Madison and John Jay. Initially published under the pseudonym 'Publius', their intent was to encourage the ratification of the then-new Constitution of the United States of America. In later years, a list emerged where the author of each one of the 85 papers was identified. Nevertheless, for a subset of these papers the author is still in question. The problem of the Federalist Papers authorship attribution has been a subject of much research in statistical NLP in the past. 
+In concrete terms, the problem is identifying, for each one of the disputed papers, whether Alexander Hamilton or James Madison are the authors
